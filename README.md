@@ -1,6 +1,6 @@
 <img  alt="GoStack"  src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
-## Desafio 01: Conceitos do Node.js
+## Desafio 02: Conceitos de ReactJS
 
 ## :rocket: Sobre o desafio
 
